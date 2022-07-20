@@ -1,4 +1,4 @@
-# Example HTTP upload with progress
+# Rust HTTP upload with progress
 
 This example uses reqwest and indicatif to upload binary data to a server with progress. Building the project will result in two binaries, one for the client and one for the server.
 
